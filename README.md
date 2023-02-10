@@ -1,2 +1,1 @@
-# hello-world
-ex git hub
+My first readme
